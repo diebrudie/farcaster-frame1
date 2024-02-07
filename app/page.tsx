@@ -7,7 +7,7 @@ const frameMetadata = getFrameMetadata({
       label: "Monster Me"
     }
   ],
-  image: `${process.env.NEXT_PUBLIC_GATEWAY_URL}/ipfs/Qmd6A6cTZo1ULZybN9MirUgWTuEd6gfJhYVhouxZFGbWyG`,
+  image: `${process.env.NEXT_PUBLIC_GATEWAY_URL}/ipfs/Qmd6A6cTZo1ULZybN9MirUgWTuEd6gfJhYVhouxZFGbWyG/0_0-midjourney-01.png`,
   post_url: `${process.env.NEXT_PUBLIC_BASE_URL}/api/frame?id=1`,  
 });
 
