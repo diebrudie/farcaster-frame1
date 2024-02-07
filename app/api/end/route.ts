@@ -6,9 +6,9 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
 
     let path: string;
     if (buttonId === 1) {
-        path = 'brudie-midjourney';
+        path = 'build-your-own-frame';
     } else if (buttonId === 2) {
-        path = 'diebrudie';
+        path = 'pinata-account';
     } else {
         path = '';
     }

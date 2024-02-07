@@ -3,13 +3,13 @@ const nextConfig = {
     async redirects(){
         return [
             {
-                source: '/diebrudie-midjourney',
-                destination: 'https://playground-isa.webflow.io/interactive/moving-lines',
+                source: '/build-your-own-frame',
+                destination: 'https://www.pinata.cloud/blog/how-to-make-a-frame-on-farcaster-using-ipfs',
                 permanent: false
             },
             {
-                source: '/diebrudie',
-                destination: 'https://isabelbruda.xyz/',
+                source: '/pinata-account',
+                destination: 'https://app.pinata.cloud/register',
                 permanent: false
             }
         ]
